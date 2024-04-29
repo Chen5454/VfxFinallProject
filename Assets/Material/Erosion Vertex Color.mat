@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Erosion
+  m_Name: Erosion Vertex Color
   m_Shader: {fileID: -6465566751694194690, guid: d6fe932cdacb810439d8def7245e05e6,
     type: 3}
   m_Parent: {fileID: 0}

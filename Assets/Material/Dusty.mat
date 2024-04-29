@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Erosion
+  m_Name: Dusty
   m_Shader: {fileID: -6465566751694194690, guid: d6fe932cdacb810439d8def7245e05e6,
     type: 3}
   m_Parent: {fileID: 0}
@@ -77,7 +77,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Main_Terxture:
-        m_Texture: {fileID: 2800000, guid: e6de9259c5747f647a664044011aa808, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5072345466836fe48a31b2130129c0fd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Main_Texture:
@@ -181,8 +181,7 @@ Material:
     - _lavaMax: 3.9
     - _lavaMin: 1.8
     m_Colors:
-    - Color_f6c45baf1a064cbf9b2a313b68793f8b: {r: 0.38422284, g: 1, b: 0.3066038,
-        a: 1}
+    - Color_f6c45baf1a064cbf9b2a313b68793f8b: {r: 0, g: 1, b: 0.69803923, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Base_Ring_Color: {r: 0.85410655, g: 1, b: 0.8443396, a: 0}
     - _Basic_Color: {r: 0.8958334, g: 1, b: 0, a: 0}
