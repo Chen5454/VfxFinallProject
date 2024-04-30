@@ -181,8 +181,7 @@ Material:
     - _lavaMax: 3.9
     - _lavaMin: 1.8
     m_Colors:
-    - Color_f6c45baf1a064cbf9b2a313b68793f8b: {r: 0.6603774, g: 0.6603774, b: 0.6603774,
-        a: 1}
+    - Color_f6c45baf1a064cbf9b2a313b68793f8b: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Base_Ring_Color: {r: 0.85410655, g: 1, b: 0.8443396, a: 0}
     - _Basic_Color: {r: 0.8958334, g: 1, b: 0, a: 0}
