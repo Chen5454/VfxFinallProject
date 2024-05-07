@@ -1,4 +1,4 @@
-Shader "Hovl/Particles/Blend_LinePath"
+Shader "Particles/Blend_LinePath"
 {
 	Properties
 	{
